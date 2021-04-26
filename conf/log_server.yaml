@@ -1,0 +1,9 @@
+log_server:
+  log_server_conf:
+    auth_id: ''
+    auth_key: ''
+    host: 'localhost'
+    port: 8882
+    protocol: 'http'
+  secure_ports:
+    - 8882

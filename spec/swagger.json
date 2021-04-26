@@ -1,0 +1,13 @@
+{
+  "swagger": "",
+  "info": {},
+  "schemes": [
+    "http",
+    "https"
+  ],
+  "host": "log.server.com",
+  "basePath": "/api",
+  "paths": {},
+  "parameters": {},
+  "definitions": {}
+}
